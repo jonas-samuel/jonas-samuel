@@ -3,8 +3,8 @@
 <!--
 **jonas-samuel/jonas-samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Typescript
+- 🔭 Hoje trabalho análise de dados
+- 🌱 Estudando Python e um pouco de Java
 
 <div align="center">
   <a href="https://github.com/jonas-samuel">
