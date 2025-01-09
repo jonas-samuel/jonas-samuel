@@ -1,31 +1,35 @@
-### Oi! Eu sou o Jonas Samuel 👋
 
-<!--
-**jonas-samuel/jonas-samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">👋 Olá, Bem-vindo ao Meu Perfil no GitHub!</h1>
 
-- 🔭 Hoje trabalho com análise de dados
-- 🌱 Estudando Python e um pouco de Java
+<p align="center" style="font-size: 1.2em; color: #555;">Sou <strong>Jonas Samuel</strong>, entusiasta de tecnologia, focado em <em>Análise de Dados com Python</em> e <em>Java</em>. Sigo aprendendo continuamente para resolver problemas com soluções inovadoras.</p>
 
-<div align="center">
-  <a href="https://github.com/jonas-samuel">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonas-samuel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-samuel&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+<hr style="border: 1px solid #4CAF50; margin: 20px 0;">
 
+<h2>🚀 <span style="color: #FF5722;">Minhas Principais Habilidades</span></h2>
+<ul style="list-style-type: square; font-size: 1.1em;">
+  <li><strong>Linguagens:</strong> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"></li>
+  <li><strong>Ferramentas:</strong> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></li>
+  <li><strong>Outros:</strong> MS Project, SAP, AWS</li>
+</ul>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="JAVA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="REACT-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PYTHON-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<hr>
 
-  ##
- 
+<h2>📈 <span style="color: #2196F3;">Estatísticas do GitHub</span></h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonas-samuel&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-samuel&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+</p>
+
+<hr>
+
+<h2>🌐 <span style="color: #673AB7;">Vamos nos conectar!</span></h2>
 <div align="center"> 
   <a href="https://www.instagram.com/jonas.samuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonassamuel81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-samuel-0311ba1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+<footer style="margin-top: 20px; font-style: italic; color: #777;">
+✨ "A constante busca por melhoria é o que impulsiona a inovação."
+</footer>
