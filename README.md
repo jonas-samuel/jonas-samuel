@@ -27,13 +27,13 @@
 </div>
 
 
-<h2 align="center">📈 <span style="color: #2196F3;">Estatísticas do GitHub</span></h2>
+<h2 align="center">📈 <span style="color:  #4CAF50;">Estatísticas do GitHub</span></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonas-samuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonas-samuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="150" alt="languages graph"  />
 <hr>
 
-<h2>🌐 <span style="color: #673AB7;">Vamos nos conectar!</span></h2>
+<h2>🌐 <span style="color:  #4CAF50;">Vamos nos conectar!</span></h2>
 <div align="center"> 
   <a href="https://www.instagram.com/jonas.samuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonassamuel81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
