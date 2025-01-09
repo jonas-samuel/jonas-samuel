@@ -1,4 +1,3 @@
-
 <h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">👋 Olá, Bem-vindo ao Meu Perfil no GitHub!</h1>
 
 <p align="center" style="font-size: 1.2em; color: #555;">Sou <strong>Jonas Samuel</strong>, entusiasta de tecnologia, focado em <em>Análise de Dados com Python</em> e backend com <em>Java</em>. Sigo aprendendo continuamente para resolver problemas com soluções inovadoras.</p>
@@ -26,11 +25,11 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
-
 <h2 align="center">📈 <span style="color:  #4CAF50;">Estatísticas do GitHub</span></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonas-samuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonas-samuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonas-samuel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonas-samuel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <hr>
 
 <h2>🌐 <span style="color:  #4CAF50;">Vamos nos conectar!</span></h2>
