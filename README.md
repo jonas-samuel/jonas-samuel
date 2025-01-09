@@ -3,7 +3,7 @@
 <!--
 **jonas-samuel/jonas-samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Hoje trabalho análise de dados
+- 🔭 Hoje trabalho com análise de dados
 - 🌱 Estudando Python e um pouco de Java
 
 <div align="center">
